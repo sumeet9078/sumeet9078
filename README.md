@@ -1,4 +1,4 @@
-[![MasterHead](https://iconscout.com/lottie-animation/front-end-developer-5315367)]
+
 <h1 align="center">Hi 👋, I'm Sumeet Kumar Pradhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
