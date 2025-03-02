@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Back-end Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, React**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Figma, Adobe XD, Photoshop, Git, GitHub**
 
 - 📫 How to reach me **pradhansumeet2000@gmail.com**
 
